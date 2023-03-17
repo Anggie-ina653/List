@@ -1,0 +1,7 @@
+{
+  "name": "listIna",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
